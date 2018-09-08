@@ -1,0 +1,14 @@
+
+body{
+	background-image: url("bananas.png");
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+	
+}
+
+h1{
+	color: royalblue;
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+}
+
